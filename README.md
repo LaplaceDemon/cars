@@ -13,3 +13,8 @@ svg：
 </svg>
 </div>
 
+{::nomarkdown}
+<svg width="400" height=300>
+    <circle cx="150" cy="100" r="10" fill="blue"/>
+</svg>
+{:/}
